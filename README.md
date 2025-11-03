@@ -6,7 +6,7 @@ FastAPI backend + Streamlit frontend. Uses SearxNG for meta-search and Crawl4AI 
 ## Flow Diagram
 <img width="529" height="242" alt="image" src="https://github.com/user-attachments/assets/97adf039-b559-4c8e-872d-ec0310dbf821" />
 
-Some steps or components may not have been included yet and are potential areas for future improvement.
+Some steps or components may not have been included yet and are potential areas for future improvement. For what can be improved, please refers [here](https://github.com/callhersalsa/ppt-gen-ai/blob/main/NOTES.md).
 
 ## Key features
 - Web search (SearxNG) + crawl (Crawl4AI) → extract article content
